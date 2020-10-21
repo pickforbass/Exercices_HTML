@@ -1,0 +1,39 @@
+# Enfants et parents
+
+###Présentation
+La notion de parent et enfants ou mère et fille est le concept selon lequel des propriétés apportées à un élément font s'appliquer également aux élèments qu'il contient. 
+Ainsi, les mises en forme, les attributs ou encore les écouteurs d'événement (qu'on verra plus tard en Javascript) d'un élèment font se trouver également dans les élèments situés en dessous de lui. 
+
+
+
+```
+<div>
+    <p>
+        <h2>
+            Mon titre de praragraphe
+        </h2>
+
+        <span>
+            du texte
+        </span>
+    </p>
+</div>
+
+<div>
+    <img>
+</div>
+```
+
+
+Voici un exemple concret d'élèments imbriqués. Dans cet exemple, les deux div sont indépendantes. Aucune d'entre elles n'est dans l'autre. On peut donc faire la mise en forme de façon totalement séparée. 
+En revanche le p est dans une DIV. Si l'on doit faire une mise en forme sur le p, elle s'appliquera également à ses deux balises filles, H2 et span; mais la première div n'en tiendra pas compte.
+
+###Exercice : maitrisez les parents et les enfants. 
+
+Faites une représentation claire de qui est écrit ici, de façon peu claire :) .
+
+Prenons deux parents, un jaune et un bleu, ce dernier souhaitant ne faire que les 3/4 de sa page. Jaune a deux enfants, Safran et citron, et chacun a une façon d'écrire différente. 
+Bleu quant à lui à 3 enfants, Cyan, Navy et Teal, tous écrivent de la même façon, mais deux en orange et un en blanc. 
+Bleu est une grand mère heureuse grâce à Teal. Sa petite fille est toute blanche, et adore s'exprimer en rouge. Sa soeur quant à elle est le portrait craché de sa mère. 
+
+
