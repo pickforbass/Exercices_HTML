@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73ec1289-20f4-47c0-8e1c-6b665fcbf89a" name="Default Changelist" comment="exercices to discover HTML basics">
-      <change afterPath="$PROJECT_DIR$/Les_listes/notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603095792663</updated>
       <workItem from="1603095794083" duration="9746000" />
-      <workItem from="1603282202604" duration="2400000" />
+      <workItem from="1603282202604" duration="3093000" />
     </task>
     <task id="LOCAL-00001" summary="exercices to discover HTML basics">
       <created>1603106004373</created>
@@ -79,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603106004373</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exercices to discover HTML basics">
+      <created>1603284644453</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603284644453</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,9 +117,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="347" y="78" key="SettingsEditor/543.1080.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603283409084" />
-    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1603106029174">
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1603284721031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="189" key="Vcs.Push.Dialog.v2/-1366.156.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603106029174" />
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2/543.1080.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603284721031" />
   </component>
 </project>
